@@ -18,9 +18,9 @@ shapely 1.6
 
 结果：
 
-https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2_10.png
-https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2raw.jpg
-https://github.com/Epsilon123/zhu/blob/master/img/612022_x_0.png
-https://github.com/Epsilon123/zhu/blob/master/img/612022_x_1.png
-https://github.com/Epsilon123/zhu/blob/master/img/612022_x_2.png
-https://github.com/Epsilon123/zhu/blob/master/img/612022_x_5.png
+![10个类别](https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2_10.png)
+![原图](https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2raw.jpg)
+![class 0：建筑物](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_0.png)
+![class 1：道路](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_1.png)
+![class 2：树](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_2.png)
+![class 5：汽车](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_5.png)
