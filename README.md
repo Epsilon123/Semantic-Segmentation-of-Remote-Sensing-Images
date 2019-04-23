@@ -17,15 +17,21 @@ tifffile
 shapely 1.6
 
 结果：
+
 label：
 ![10个类别](https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2_10.png)
+
 原图：
 ![原图](https://github.com/Epsilon123/zhu/blob/master/img/6120_2_2raw.jpg)
+
 类别1：建筑物
 ![class 0：建筑物](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_0.png)
+
 类别2：道路
 ![class 1：道路](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_1.png)
+
 类别3：树木
 ![class 2：树](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_2.png)
+
 类别6：汽车
 ![class 5：汽车](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_3.png)
