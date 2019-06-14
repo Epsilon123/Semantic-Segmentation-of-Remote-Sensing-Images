@@ -51,3 +51,5 @@ label：
 类别6：汽车
 
 ![class 5：汽车](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_3.png)
+
+github是随便写的，这是研究生毕业论文，没有发表，本人也没有博客，有问题可以邮箱联系我853569053@qq.com
