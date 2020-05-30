@@ -54,5 +54,5 @@ label：
 
 ![class 5：汽车](https://github.com/Epsilon123/zhu/blob/master/img/612022_x_3.png)
 
-github是随便写的，这是研究生毕业论文，没有发表，本人也没有博客，有问题可以邮箱联系我853569053@qq.com
+github是随便写的，有问题可以邮箱联系我853569053@qq.com
 kaggle账号注册需要翻墙，数据量很大需要翻墙下载。建议先实现unet，在了解整个实验流程原理以及代码的基础上，再实现deeplab v3+。此项目不再维护，不要用QQ联系。
